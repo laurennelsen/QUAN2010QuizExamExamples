@@ -3,8 +3,11 @@
 <section xml:id="sec-exam-1-info" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Exam 1 Information</title>
 
+  <subsection xml:id="subsec-exam-1-info">
+    <title>Exam 1 Information</title>
+
   <p>
-   Exam 1 will be available on Canvas to take during the days listed in the syllabus. 
+   Exam 1 will be available on Canvas to take during class on the day listed in the syllabus.  (You must be in person in the classroom to take the exam.)
   </p>
 
 
@@ -18,23 +21,32 @@
     </li>
 
 
-    <li>
+   <!-- <li>
       <p>
         The exam will be broken into two parts, and you will have 60 minutes for each part of the exam.
       </p>
-    </li>
+    </li>-->
 
 <li>
   <p>
-During both parts of the exam you may use your notes, the online course notes, the quiz/exam information site, a basic calculator (no phone) and a blank Excel file.  Some problems will require you to upload an Excel file with all your work/calculations in order to receive credit.
-During quizzes you may NOT search the internet, use generative AI or use other resources that are not allowed.  </p>
+During the exam you may use your notes, the online course notes, the quiz/exam information site, a basic calculator (no phone) and a blank Excel file.  Some problems will require you to upload an Excel file with all your work/calculations in order to receive credit.
+During quizzes you may NOT search the internet, use generative AI or use other resources that are not allowed.   </p>
 </li>
+
 
 <li>
   <p>
     You are NOT allowed to use other people's work or search internet sites while taking the test.  If you share you answers and others use them, both you and the students you shared with may receive a zero for the exam and may fail the course.
   </p>
 </li>
+
+<li>
+
+  <p>
+    Even though you are allowed to use your notes and course resources during the exam, I strongly recommend making a <q>cheat sheet</q> to use while you take the exam!  It can help you prepare for the exam and be ready for the types of questions that will be on the exam.  (If you don't prepare and practice the example problems, you might find yourself spending a long time searching and trying to figure out how to do problems while you're taking the exam.)
+  </p>
+
+  </li>
 
 
 <li>
@@ -53,22 +65,22 @@ During quizzes you may NOT search the internet, use generative AI or use other r
 </li>
 
 
-<!--<li>
+<li>
   <p>
     If you have a question during the exam, ask me!  It is much better to ask right away than to stay stuck for a long time.
   </p>
-</li>-->
+</li>
 
 
 
   </ul>
-
+</subsection>
 
   <subsection xml:id="subsec-exam-1-format">
     <title>Exam 1 Format</title>
 
 
-    <p>
+   <!-- <p>
       The exam will be on Canvas, and it will be broken into two parts:  
       <ul>
         <li>
@@ -82,7 +94,7 @@ During quizzes you may NOT search the internet, use generative AI or use other r
           </p>
         </li>
       </ul>
-      </p>
+      </p>-->
 
 
       <p>
@@ -90,16 +102,17 @@ During quizzes you may NOT search the internet, use generative AI or use other r
       The exam may have some or all of the following problems/types of problems.  (The exam may have all of these types of problems or a subset of these types of problems.  Some of these problems might not have all the parts that were on corresponding quiz/homework problems.)  Examples of these problems (except for the multiple choice problems) are shown below under <xref ref="exercises-exam-1-practice"/>.
 
     </p>
+
+    <p>
+            <em>Note:  On the exam, the problems may not all be labeled with the corresponding quiz objective/homework problem.</em>
+      
+    </p>
     
     <p>
       For the multiple choice problems, I recommend looking back at conceptual homework assignments, reviewing concepts from the notes/the book and making sure you understand the definitions and topics we've talked about.
     </p>
 
-    <ul>
-      <li>
-        <p>
-          Part 1:  
-        </p>
+   
         <ul>
           <li>
           <p>
@@ -124,13 +137,7 @@ During quizzes you may NOT search the internet, use generative AI or use other r
         </p>
     </p>
   </li>
-        </ul>
-      </li>
-      <li>
-        <p>
-          Part 2:  
-        </p>
-        <ul>
+       
           <li>
     <p>
       <em>Quiz objectives <m>\boxed{1b}</m> and <m>\boxed{1c}</m></em>
@@ -192,8 +199,6 @@ During quizzes you may NOT search the internet, use generative AI or use other r
 
 
         </ul>
-      </li>
-    </ul>
 
 
 
