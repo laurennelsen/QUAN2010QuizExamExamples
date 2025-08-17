@@ -22,7 +22,72 @@
           You are designing a promotional campaign for a new digital textbook. You plan to randomly sample 10 students from the same population.
         </p>
         <ol marker="a)">
+
           <li>
+            <p>
+              Assuming it is appropriate to model the number of students who prefer digital textbooks using a binomial distribution, what formula would you use to find the probability that less than 8 of the 10 sampled students prefer digital?
+            </p>
+            <p>
+              Options:
+              <ul>
+                <li>
+                  <p>
+                    1-BINOM.DIST(7,10,72/120,0) 
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    1-BINOM.DIST(8,10,72/120,1) 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    1-BINOM.DIST(7,10,72/120,1) 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    BINOM.DIST(7,10,72/120,1) 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    BINOM.DIST(8,10,72/120,1) 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    BINOM.DIST(8,10,72/120,0) 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    1-BINOM.DIST(8,10,72/120,0) 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    1-NORM.DIST(8,10,72/120,1) 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    NORM.DIST(8,10,72/120,1) 
+
+                  </p>
+                </li>
+              </ul>
+            </p>
+          </li>
+
+          <!--<li>
             <p>
               Is it appropriate to model the number of students who prefer digital textbooks using a binomial distribution? Justify your answer.
             </p>
@@ -60,10 +125,10 @@
               </ul>
 
             </p>
-          </li>
+          </li>-->
           <li>
             <p>
-              Assuming it is appropriate, what formula would you use to find the probability that at least 8 of the 10 sampled students prefer digital?
+              Assuming it is appropriate to model the number of students who prefer digital textbooks using a binomial distribution, what formula would you use to find the probability that at least 8 of the 10 sampled students prefer digital?
             </p>
             <p>
               Options:
@@ -535,6 +600,9 @@
             
           </p>
           <p>
+            [Written work for the example for objective 4a will be updated.]
+          </p>
+          <p>
             <url href="external/sheets/Example Quiz 4 Solutions.pdf" />
 
           </p>
@@ -547,6 +615,10 @@
               <li>
                 <p>
                   <em>Objective 4a:</em>
+                </p>
+                <p>
+                [The video for the example for objective 4a will be updated.]
+
                 </p>
                 <p>
                   <video youtube="K3UvsiS7b18"/>
