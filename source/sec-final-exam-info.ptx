@@ -86,6 +86,10 @@ During quizzes you may NOT search the internet, use generative AI or use other r
     </p>
 
     <p>
+      Problems on the exam might not be the same format or the same submission type as the example problems under <xref ref="exercises-exam-1-practice"/>.  (For example, a problem requiring upload of an Excel file might be multiple choice or fill-in-the-blank, or vice versa.)
+    </p>
+
+    <p>
             <em>Note:  On the exam, the problems may not all be labeled with the corresponding quiz objective/homework problem.</em>
       
     </p>
@@ -117,7 +121,7 @@ During quizzes you may NOT search the internet, use generative AI or use other r
                   <em>Quiz Objective <m>\boxed{7b}</m>:</em>  <url href="https://laurennelsen.github.io/QUAN2010QuizExamExamples/sec-quiz-7.html"> Link to example solutions </url>
                 </p>
                 <p>
-                  You'll need to submit an Excel file with your work for this problem.  I'll ask the following things for this problem:
+                  I'll ask the following things for this problem:
                   <ul>
                     <li>
                       <p>
@@ -331,9 +335,7 @@ During quizzes you may NOT search the internet, use generative AI or use other r
   <p>
     <em>Quiz outcome <m>\boxed{8a}</m>:</em>
   </p>
-            <p>
-              (Each part of this problem will be multiple choice.)
-            </p>
+            
             <p>
               A business compares the amount it spends on advertising (thousands of dollars per month) to its revenues (thousands of dollars per month) over the last few months.
             </p>
@@ -444,7 +446,7 @@ During quizzes you may NOT search the internet, use generative AI or use other r
                <url href="external/sheets/BookstoreSalesData.xlsx" />
             </p>
             <p>
-              Include answers to all questions below in the Excel file that you upload for this problem, and include any work or calculations you did in the Excel file.
+              If you are asked to submit an Excel file for this problem, include answers to all questions below in the Excel file that you upload for this problem, and include any work or calculations you did in the Excel file.
             </p>
             <p>
               <ol marker="(a)">
